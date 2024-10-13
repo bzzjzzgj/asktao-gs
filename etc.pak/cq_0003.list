@@ -1,0 +1,23 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+百年黑熊 : 5000
+
+
+
+[百年黑熊]
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "宝宝玲珑丹" })
+
+
+[宝宝玲珑丹]
+name$: 宝宝玲珑丹
+min_level: 1
+max_level: 1
+attribs  :  ({"add_pet_exp",50000000 })

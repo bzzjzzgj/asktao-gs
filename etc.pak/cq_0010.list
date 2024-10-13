@@ -1,0 +1,129 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+[特等奖]
+元灵 : 320
+
+[元灵]
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "夫诸", "笛舞", "赤天", "降魔", "混沌", "震魃", "大力神猪", "齐天大圣", "碧霄", "祸斗", "哮天犬" })
+
+[哮天犬]
+name$: ({ 哮天犬, 哮天犬 })
+rank$: 元灵
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ -25, -25 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ 110, 110 })
+mag_effect: ({ -50, -50 })
+special_skill$: ({ 3,神龙罩, 1,神圣之光, 1,舍命一击, 1})
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+[赤天]
+name$: ({ 赤天,赤天 })
+rank$: 元灵
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 55, 55 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 40, 40 })
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+
+[笛舞]
+name$: ({ 笛舞,笛舞 })
+rank$: 元灵
+level: 1
+life_effect: ({ 80, 80 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 50, 50 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+
+[降魔]
+name$: ({ 降魔,降魔 })
+rank$: 元灵
+level: 1
+life_effect: ({ 90, 90 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+
+[混沌]
+name$: ({ 混沌,混沌 })
+rank$: 元灵
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ -25, -25 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ 110, 110 })
+mag_effect: ({ -50, -50 })
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+[夫诸]
+name$: ({ 夫诸,夫诸 })
+rank$: 元灵
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 50, 50 })
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+[震魃]
+name$: ({ 震魃,震魃 })
+rank$: 元灵
+level: 1
+life_effect: ({ 80, 80 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 55, 55 })
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+[齐天大圣]
+name$: ({ 齐天大圣,齐天大圣 })
+rank$: 元灵
+level: 1
+life_effect: ({ 80, 80 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 55, 55 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 40, 40 })
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+[碧霄]
+name$: ({ 碧霄,碧霄 })
+rank$: 元灵
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -25, -25 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ 110, 110 })
+mag_effect: ({ -50, -50 })
+special_skill$: ({ 3, 乾坤罩, 1, 游说之舌, 1, 翻转乾坤, 1})
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"
+
+[祸斗]
+name$: ({ 祸斗,祸斗 })
+rank$: 元灵
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -25, -25 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ 105, 105 })
+mag_effect: ({ -50, -50 })
+special_skill$: ({ 3, 乾坤罩, 1, 舍命一击, 1, 漫天血舞, 1})
+channel_msg : "#$PLAYER#n打开#礼袋#n时得到了$EX_PET的奖励！真是鸿运当头啊！#R赶快行动来商城抽奖吧！"

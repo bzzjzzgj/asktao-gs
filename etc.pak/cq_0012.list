@@ -1,0 +1,577 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#½±ÀøÎïÆ·        ¸ÅÂÊ
+
+[½±ÀøµÈ¼¶]
+name$: Ä©µÈ½±
+
+[Ä©µÈ½±]
+±äÒì : 3000
+
+
+[±äÒì]
+bonus$:  ({ 0, 0, 100, "³èÎï", 1, 1, "ÖØÃ÷", "ïLÀê", "°×Ôó", "µ±¿µ", "¹ê±¦", "³Ë»Æ", "ÕĞ²ÆÖí", "ÁæÀşÊó", "±¿±¿Å£", "ÍşÍş»¢", "ÌøÌøÍÃ", "¿á¿áÁú", "»¨»¨Éß", "ÁïÁïÂí", "ßãßãÑò", "Ë§Ë§ºï", "µ°µ°¼¦", "¹Ô¹Ô¹·", "¶À½ÇÏÉ", "÷Ò÷Ñ", "ÇôÅ£", "÷¡Óã", "¹ğ»¨", "ÄÏ¹ÏÍ·½Ü¿Ë", "»¨Óñô¢", "¾ı×ÓÓÄÀ¼", "¶¹Ş¢", "áùáí", "Ó¢ÕĞ", "Äµµ¤»¨", "Á«»¨", "ÜÔÀò", "»Ã»¯ÔÂÀ¶ÍÃ", "»Ã»¯ÔÂÀ¶ÍÃ", "Ò©ÊŞ", "ê¼»¨", "»Ã»¯³àÑæÍÃ", "·ÉÁ®", "»Ã»¯½õ³½ÍÃ", "ºÌÈ¸", "ÆÑÀÎ", "·½Ïà", "õùõ÷", "·çÀê", "»Ã»¯±ÌÓñÍÃ", "³°·ç", "ÔÂ¼û²İ", "»Ã»¯×ÏÔÆÍÃ", "ÔÂ¼¾", "íıíö", "°ÔÏÂ", "ÓñÀ¼", "±ÈÒíÄñ", "·ÉÌìÊó", "ĞşÁéÍÃ", "ëèëè"})
+
+[ÖØÃ÷]
+name$: ({ ÖØÃ÷, ÖØÃ÷ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 40, 40 })
+
+[ïLÀê]
+name$: ({ ïLÀê, ïLÀê })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[°×Ôó]
+name$: ({ °×Ôó, °×Ôó })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 20, 20 })
+mag_effect: ({ -35, -35 })
+
+[µ±¿µ]
+name$: ({ µ±¿µ, µ±¿µ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 5, 5 })
+phy_effect: ({ 40, 40 })
+mag_effect: ({ -35, -35 })
+
+[¹ê±¦]
+name$: ({ ¹ê±¦, ¹ê±¦ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 15, 15 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[³Ë»Æ]
+name$: ({ ³Ë»Æ, ³Ë»Æ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 20, 20 })
+
+[ÕĞ²ÆÖí]
+name$: ({ ÕĞ²ÆÖí, ÕĞ²ÆÖí })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 35, 35 })
+speed_effect: ({ 5, 5 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 25, 25 })
+
+[ÁæÀşÊó]
+name$: ({ ÁæÀşÊó, ÁæÀşÊó })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 50, 50 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+
+[±¿±¿Å£]
+name$: ({ ±¿±¿Å£, ±¿±¿Å£ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 00, 00 })
+phy_effect: ({ 70, 70 })
+mag_effect: ({ -30, -30 })
+
+[ÍşÍş»¢]
+name$: ({ ÍşÍş»¢, ÍşÍş»¢ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 50, 50 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 10, 10 })
+phy_effect: ({ 80, 80 })
+mag_effect: ({ -30, -30 })
+
+[ÌøÌøÍÃ]
+name$: ({ ÌøÌøÍÃ, ÌøÌøÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 45, 45 })
+
+[¿á¿áÁú]
+name$: ({ ¿á¿áÁú, ¿á¿áÁú })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 45, 45 })
+
+[»¨»¨Éß]
+name$: ({ »¨»¨Éß, »¨»¨Éß })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[ÁïÁïÂí]
+name$: ({ ÁïÁïÂí, ÁïÁïÂí })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ 50, 50 })
+mag_effect: ({ -30, -30 })
+
+[ßãßãÑò]
+name$: ({ ßãßãÑò, ßãßãÑò })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 15, 15 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[Ë§Ë§ºï]
+name$: ({ Ë§Ë§ºï, Ë§Ë§ºï })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ 50, 50 })
+mag_effect: ({ -30, -30 })
+
+[µ°µ°¼¦]
+name$: ({ µ°µ°¼¦, µ°µ°¼¦ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+
+[¹Ô¹Ô¹·]
+name$: ({ ¹Ô¹Ô¹·, ¹Ô¹Ô¹· })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+
+[¶À½ÇÏÉ]
+name$: ({ ¶À½ÇÏÉ, ¶À½ÇÏÉ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 5, 5 })
+phy_effect: ({ 85, 85 })
+mag_effect: ({ -40, -40 })
+
+[÷Ò÷Ñ]
+name$: ({ ÷Ò÷Ñ, ÷Ò÷Ñ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 10, 10 })
+phy_effect: ({ 75, 75 })
+mag_effect: ({ -35, -35 })
+
+[ÇôÅ£]
+name$: ({ ÇôÅ£, ÇôÅ£ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 0, 0 })
+phy_effect: ({ 75, 75 })
+mag_effect: ({ -35, -35 })
+
+[÷¡Óã]
+name$: ({ ÷¡Óã, ÷¡Óã })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ -45, -45 })
+mag_effect: ({ 20, 20 })
+
+[¹ğ»¨]
+name$: ({ ¹ğ»¨, ¹ğ»¨ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 30, 30 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+
+[ÄÏ¹ÏÍ·½Ü¿Ë]
+name$: ({ ÄÏ¹ÏÍ·½Ü¿Ë, ÄÏ¹ÏÍ·½Ü¿Ë })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 15, 15 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 45, 45 })
+
+[»¨Óñô¢]
+name$: ({ »¨Óñô¢, »¨Óñô¢ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 45, 45 })
+
+[¾ı×ÓÓÄÀ¼]
+name$: ({ ¾ı×ÓÓÄÀ¼, ¾ı×ÓÓÄÀ¼ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 50, 50 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 10, 10 })
+phy_effect: ({ 80, 80 })
+mag_effect: ({ -30, -30 })
+
+[¶¹Ş¢]
+name$: ({ ¶¹Ş¢, ¶¹Ş¢ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ 50, 50 })
+mag_effect: ({ -30, -30 })
+
+[áùáí]
+name$: ({ áùáí, áùáí })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 0, 0 })
+phy_effect: ({ 85, 85 })
+mag_effect: ({ -35, -35 })
+
+[Ó¢ÕĞ]
+name$: ({ Ó¢ÕĞ, Ó¢ÕĞ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 5, 5 })
+phy_effect: ({ 85, 85 })
+mag_effect: ({ -40, -40 })
+
+[Äµµ¤»¨]
+name$: ({ Äµµ¤»¨, Äµµ¤»¨ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 15, 15 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[Á«»¨]
+name$: ({ Á«»¨, Á«»¨ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[ÜÔÀò]
+name$: ({ ÜÔÀò, ÜÔÀò })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 35, 35 })
+speed_effect: ({ 5, 5 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 25, 25 })
+
+[»Ã»¯ÔÂÀ¶ÍÃ]
+name$: ({ »Ã»¯ÔÂÀ¶ÍÃ, »Ã»¯ÔÂÀ¶ÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ -15, -15 })
+phy_effect: ({ -30, -30 })
+mag_effect: ({ 40, 40 })
+
+[»Ã»¯ÔÂÀ¶ÍÃ]
+name$: ({ »Ã»¯ÔÂÀ¶ÍÃ, »Ã»¯ÔÂÀ¶ÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ -15, -15 })
+phy_effect: ({ -30, -30 })
+mag_effect: ({ 40, 40 })
+
+[Ò©ÊŞ]
+name$: ({ Ò©ÊŞ, Ò©ÊŞ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 10, 10 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+
+[ê¼»¨]
+name$: ({ ê¼»¨, ê¼»¨ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 60, 60 })
+mag_effect: ({ -30, -30 })
+
+[»Ã»¯³àÑæÍÃ]
+name$: ({ »Ã»¯³àÑæÍÃ, »Ã»¯³àÑæÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ -15, -15 })
+phy_effect: ({ -30, -30 })
+mag_effect: ({ 40, 40 })
+
+[·ÉÁ®]
+name$: ({ ·ÉÁ®, ·ÉÁ® })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[»Ã»¯½õ³½ÍÃ]
+name$: ({ »Ã»¯½õ³½ÍÃ, »Ã»¯½õ³½ÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ -15, -15 })
+phy_effect: ({ -30, -30 })
+mag_effect: ({ 40, 40 })
+
+[ºÌÈ¸]
+name$: ({ ºÌÈ¸, ºÌÈ¸ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+
+[ÆÑÀÎ]
+name$: ({ ÆÑÀÎ, ÆÑÀÎ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -45, -45 })
+mag_effect: ({ 35, 35 })
+
+[·½Ïà]
+name$: ({ ·½Ïà, ·½Ïà })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ 50, 50 })
+mag_effect: ({ -35, -35 })
+
+[õùõ÷]
+name$: ({ õùõ÷, õùõ÷ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 0, 0 })
+phy_effect: ({ 90, 90 })
+mag_effect: ({ -35, -35 })
+
+[·çÀê]
+name$: ({ ·çÀê, ·çÀê })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+
+[»Ã»¯±ÌÓñÍÃ]
+name$: ({ »Ã»¯±ÌÓñÍÃ, »Ã»¯±ÌÓñÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ -15, -15 })
+phy_effect: ({ -30, -30 })
+mag_effect: ({ 40, 40 })
+
+[³°·ç]
+name$: ({ ³°·ç, ³°·ç })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -45, -45 })
+mag_effect: ({ 40, 40 })
+
+[ÔÂ¼û²İ]
+name$: ({ ÔÂ¼û²İ, ÔÂ¼û²İ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ 50, 50 })
+mag_effect: ({ -30, -30 })
+
+[»Ã»¯×ÏÔÆÍÃ]
+name$: ({ »Ã»¯×ÏÔÆÍÃ, »Ã»¯×ÏÔÆÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ -15, -15 })
+phy_effect: ({ -30, -30 })
+mag_effect: ({ 40, 40 })
+
+[ÔÂ¼¾]
+name$: ({ ÔÂ¼¾, ÔÂ¼¾ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+
+[íıíö]
+name$: ({ íıíö, íıíö })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -45, -45 })
+mag_effect: ({ 25, 25 })
+
+[°ÔÏÂ]
+name$: ({ °ÔÏÂ, °ÔÏÂ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ -45, -45 })
+mag_effect: ({ 30, 30 })
+
+[ÓñÀ¼]
+name$: ({ ÓñÀ¼, ÓñÀ¼ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 0, 0 })
+phy_effect: ({ 70, 70 })
+mag_effect: ({ -30, -30 })
+
+[±ÈÒíÄñ]
+name$: ({ ±ÈÒíÄñ, ±ÈÒíÄñ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 50, 50 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 40, 40 })
+
+[·ÉÌìÊó]
+name$: ({ ·ÉÌìÊó, ·ÉÌìÊó })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 5, 5 })
+mana_effect: ({ -35, -35 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ 60, 60 })
+mag_effect: ({ -40, -40 })
+
+[ĞşÁéÍÃ]
+name$: ({ ĞşÁéÍÃ, ĞşÁéÍÃ })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 100, 100 })
+mana_effect: ({ 5, 5 })
+speed_effect: ({ -25, -25 })
+phy_effect: ({ -30, -30 })
+mag_effect: ({ -20, -20 })
+
+[ëèëè]
+name$: ({ ëèëè, ëèëè })
+rank$: ±äÒì
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 0, 0 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 40, 40 })
+
+
+

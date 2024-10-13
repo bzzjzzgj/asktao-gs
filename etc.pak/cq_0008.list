@@ -1,0 +1,65 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+[特等奖]
+百年黑熊 : 5000
+
+[百年黑熊]
+bonus$ : ({ 0, 0, 100, "宠物", 1, 1, "百年黑熊3" })
+bonus$ : ({ 0, 0, 100, "宠物", 1, 1, "血幻豪猪3" })
+bonus$ : ({ 0, 0, 100, "宠物", 1, 1, "玄天刺猬3" })
+bonus$ : ({ 0, 0, 100, "宠物", 1, 1, "北冥幼狮3" })
+
+[百年黑熊3]
+name$: ({百年黑熊,百年黑熊})
+rank$:宝宝
+level: 1
+life_effect: ({ 50, 50 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 60, 60 })
+mag_effect: ({ -30, -30 })
+longevity: ({ 10000, 20000 })
+martial: ({ 0, 0 })
+
+[北冥幼狮3]
+name$: ({北冥幼狮,北冥幼狮})
+rank$:宝宝
+level: 1
+life_effect: ({ 50, 50 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 60, 60 })
+mag_effect: ({ -30, -30 })
+longevity: ({ 10000, 20000 })
+martial: ({ 0, 0 })
+
+
+[玄天刺猬3]
+name$: ({玄天刺猬,玄天刺猬})
+rank$:宝宝
+level: 1
+life_effect: ({ 50, 50 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 60, 60 })
+mag_effect: ({ -30, -30 })
+longevity: ({ 10000, 20000 })
+martial: ({ 0, 0 })
+
+[血幻豪猪3]
+name$: ({血幻豪猪,血幻豪猪})
+rank$:宝宝
+level: 1
+life_effect: ({ 50, 50 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 60, 60 })
+mag_effect: ({ -30, -30 })
+longevity: ({ 10000, 20000 })
+martial: ({ 0, 0 })

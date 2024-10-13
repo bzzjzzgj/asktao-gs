@@ -1,0 +1,113 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+仙元奖励 : 1
+
+
+[仙元奖励]
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "通天大圣3"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "净瓶"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "巨力" })
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "昆仑" })
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "无名"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "斗战胜佛"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "苍穹" })
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "逐鹿" })
+
+
+[净瓶]
+name$: ({净瓶, 净瓶})
+rank$: 仙元
+level: 1
+life_effect: ({ 105, 105 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 50, 50 })
+special_skill$: ({ 4, 游说之舌, 1, 如意圈, 1, 舍命一击, 1 ,天旋地转,1 })
+
+[巨力]
+name$: ({巨力, 巨力})
+rank$: 仙元
+level: 1
+life_effect: ({ 85, 85 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 30, 30 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 70, 70 })
+special_skill$: ({ 4, 舍命一击, 1, 如意圈, 1, 神圣之光, 1 ,大道无常,1})
+
+[昆仑]
+name$: ({昆仑, 昆仑})
+rank$: 仙元
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ -30, -30 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ 125, 125 })
+mag_effect: ({ -50, -50 })
+special_skill$: ({ 4, 游说之舌, 1, 如意圈, 1, 舍命一击, 1,仙云迷雾,1 })
+
+[无名]
+name$: ({无名, 无名})
+rank$: 仙元
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 50, 50 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 65, 65 })
+special_skill$: ({ 4, 游说之舌, 1, 乾坤罩, 1, 舍命一击, 1 ,神圣驱散,1 })
+
+[斗战胜佛]
+name$: ({斗战胜佛, 斗战胜佛})
+rank$: 仙元
+level: 1
+life_effect: ({ 85, 85 })
+mana_effect: ({ -5, -5 })
+speed_effect: ({ 70, 70 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 60, 60 })
+special_skill$: ({ 4, 舍命一击, 1, 如意圈, 1, 神圣之光, 1,七十二变,1})
+
+[苍穹]
+name$: ({苍穹, 苍穹})
+rank$: 仙元
+level: 1
+life_effect: ({ 80, 80 })
+mana_effect: ({ 15, 15 })
+speed_effect: ({ 70, 70 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+special_skill$: ({ 4, 游说之舌, 1, 乾坤罩, 1, 舍命一击, 1 ,缥缈虚幻,1 })
+
+[逐鹿]
+name$: ({逐鹿, 逐鹿})
+rank$: 仙元
+level: 1
+life_effect: ({ 95, 95 })
+mana_effect: ({ 10, 10 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 50, 50 })
+special_skill$: ({ 4, 游说之舌, 1, 神龙罩, 1, 舍命一击, 1 ,偷天换日,1 })
+
+[通天大圣3]
+name$: ({ 通天大圣, 通天大圣 })
+rank$: 仙元
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 5, 5 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ 70, 70 })
+mag_effect: ({ -30, -30 })
+special_skill$: ({ 3,翻转乾坤, 1,舍命一击, 1,死亡缠绵, 1,七十二变,1})
+
+

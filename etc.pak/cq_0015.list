@@ -1,0 +1,257 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+绝处逢生魂兽石·绿色  : 10000
+
+[绝处逢生魂兽石·绿色]
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "绝处逢生魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "镇定自若魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "玄虚破甲魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "玄虚灵甲魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "念念不忘魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "五福化毒魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "冻解冰消魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "如醉方醒魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "拨乱反正魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "九天封甲魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "忘乎所以魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "以毒攻毒魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "冰天雪地魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "昏昏欲睡魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "混吨不分魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "九天破甲魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "滚鞍堕马魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "无所遁形魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "金戈铁骑魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "遁形隐身魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "飞天怒吼魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "初生牛犊魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "畅通无阻魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "敞灵开智魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "平心定气魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "勾魂夺魄魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "岌岌可危魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "水泄不通魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "心荡神迷魂兽石2"})
+bonus$ : ({ 0, 0, 100, "属性道具", 1, 1, "封心锁灵魂兽石2"})
+
+[绝处逢生魂兽石2]
+name      : 念念不忘魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[镇定自若魂兽石2]
+name      : 镇定自若魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[玄虚破甲魂兽石2]
+name      : 玄虚破甲魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[玄虚灵甲魂兽石2]
+name      : 玄虚灵甲魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[念念不忘魂兽石2]
+name      : 念念不忘魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[五福化毒魂兽石2]
+name      : 五福化毒魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[冻解冰消魂兽石2]
+name      : 冻解冰消魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+[如醉方醒魂兽石2]
+name      : 如醉方醒魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+[拨乱反正魂兽石2]
+name      : 拨乱反正魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[九天封甲魂兽石2]
+name      : 九天封甲魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[忘乎所以魂兽石2]
+name      : 忘乎所以魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[以毒攻毒魂兽石2]
+name      : 以毒攻毒魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[冰天雪地魂兽石2]
+name      : 冰天雪地魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[昏昏欲睡魂兽石2]
+name      : 昏昏欲睡魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[混吨不分魂兽石2]
+name      : 混吨不分魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+[九天破甲魂兽石2]
+name      : 九天破甲魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[滚鞍堕马魂兽石2]
+name      : 滚鞍堕马魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[金戈铁骑魂兽石2]
+name      : 金戈铁骑魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+
+[无所遁形魂兽石2]
+name      : 无所遁形魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[遁形隐身魂兽石2]
+name      : 遁形隐身魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[飞天怒吼魂兽石2]
+name      : 飞天怒吼魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[初生牛犊魂兽石2]
+name      : 初生牛犊魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[畅通无阻魂兽石2]
+name      : 畅通无阻魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[敞灵开智魂兽石2]
+name      : 敞灵开智魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[平心定气魂兽石2]
+name      : 平心定气魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[勾魂夺魄魂兽石2]
+name      : 勾魂夺魄魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[岌岌可危魂兽石2]
+name      : 岌岌可危魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[水泄不通魂兽石2]
+name      : 水泄不通魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[封心锁灵魂兽石2]
+name      : 封心锁灵魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
+
+
+[心荡神迷魂兽石2]
+name      : 心荡神迷魂兽石·绿色
+min_level : 248
+max_level : 248
+attribs      : ({ "durability", 60000 })
