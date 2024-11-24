@@ -2027,12 +2027,12 @@ coin: 1000
 coin_type: 1
 recommend: 装备打造
 
-[E00000026]
-name: "十级镶嵌令"
-for_sale: 1
-coin: 888888
-coin_type: 1
-recommend: 装备打造
+# E00000026]
+# name: "十级镶嵌令"
+# for_sale: 1
+# coin: 888888
+# coin_type: 1
+# recommend: 装备打造
 
 [E00000027]
 name: "五色晶石"

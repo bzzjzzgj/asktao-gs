@@ -1,4 +1,4 @@
-local file = io.open("../etc.pak/seven_year_mall.list", "w")
+local file = io.open("./seven_year_mall.list", "w")
 
 file:write([[
 #FORM2
@@ -78,25 +78,25 @@ table.insert(sevenList, SevenConfig:new("叛逆袖章礼袋", 0, "item"))
 table.insert(sevenList, SevenConfig:new("声望礼袋", 0, "item"))
 
 table.insert(sevenList, SevenConfig:new("妖石大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("道行大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("道法大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("幻宠大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("经验大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("赤金交子", 0, "item"))
-table.insert(sevenList, SevenConfig:new("骑宠大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("魂兽石大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("魂兽技能石大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("道行大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("道法大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("幻宠大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("经验大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("赤金交子", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("骑宠大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("魂兽石大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("魂兽技能石大礼包", 0, "item"))
 
-table.insert(sevenList, SevenConfig:new("仙元大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("元灵大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("神兽大礼包", 0, "item"))
-table.insert(sevenList, SevenConfig:new("变异大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("仙元大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("元灵大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("神兽大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("变异大礼包", 0, "item"))
 
 
-table.insert(sevenList, SevenConfig:new("紫微命格卡", 0, "item"))
-table.insert(sevenList, SevenConfig:new("御仙饮", 0, "item"))
-table.insert(sevenList, SevenConfig:new("幻兽玦", 0, "item"))
-table.insert(sevenList, SevenConfig:new("水晶钥匙", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("紫微命格卡", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("御仙饮", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("幻兽玦", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("水晶钥匙", 0, "item"))
 
 table.insert(sevenList, SevenConfig:new("九转仙灵露", 0, "item"))
 table.insert(sevenList, SevenConfig:new("神木丸", 0, "item"))
@@ -162,9 +162,9 @@ table.insert(sevenList, SevenConfig:new("变身绝技·天道合一", 0, "item"))
 -- table.insert(sevenList, SevenConfig:new("一百六十级套装·土", 0, "item"))
 
 
-table.insert(sevenList, SevenConfig:new("闭月双环·X5", 0, "item"))
-table.insert(sevenList, SevenConfig:new("七龙珠·X5", 0, "item"))
-table.insert(sevenList, SevenConfig:new("天机锁链·X5", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("闭月双环·X5", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("七龙珠·X5", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("天机锁链·X5", 0, "item"))
 
 
 table.insert(sevenList, SevenConfig:new("蓝松石", 0, "item"))
@@ -176,7 +176,7 @@ table.insert(sevenList, SevenConfig:new("梦荷", 0, "item"))
 table.insert(sevenList, SevenConfig:new("大萝卜", 0, "item"))
 table.insert(sevenList, SevenConfig:new("大桃子", 0, "item"))
 
-table.insert(sevenList, SevenConfig:new("超级剑魂卡·仙", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("超级剑魂卡·仙", 0, "item"))
 
 -- table.insert(sevenList, SevenConfig:new("叛逆军袖章", 0, "item"))
 -- table.insert(sevenList, SevenConfig:new("叛逆精英袖章", 0, "item"))
