@@ -1,7 +1,7 @@
 #FORM2
 
 [活动时间]
-time_list$ : ({ "2017-10-30-00:00:00", "EVERY_DAY(17)", "EVERY_WEEK(0)", "2017-11-15-23:59:59" })
+time_list$ : ({ "2016-01-04-00:00:00", "EVERY_DAY(8)", "EVERY_WEEK(0)", "2016-01-11-23:59:59" })
 
 [broadcast_setting]
 broadcast_list:   ({ "start_task", "end_task" })
@@ -10,7 +10,7 @@ broadcast_list:   ({ "start_task", "end_task" })
 broadcast_start : "start_time"
 interval        : 7200
 broadcast_end   : "end_time(-60)"
-message         : "许愿树降临#Z天墉城#Z，大家有何心愿都可以前往#P许愿树#P处许愿。你也可通过#url下载问道小秘书{http://www.lssapp.com/}#t来参与许愿活动哟。"
+message         : "许愿树降临#Z天墉城#Z，大家有何心愿都可以前往#P许愿树#P处许愿。你也可通过#url下载问道小秘书{http://bbs.asktao.com/xms/}#t来参与许愿活动哟。"
 channel         : "CHANNEL_SYSTEM | CHANNEL_NO_BROADCAST"
 
 [end_task]

@@ -1,11 +1,11 @@
 #FORM2
 
 [活动时间]
-time_list$ : ({ "2016-04-15-00:00:00", "EVERY_HOUR(24)", "EVERY_DAY(1)", "2022-05-08-23:59:59" })
-special_task_start_time : "2016-04-22-00:00:00"
-special_task_end_time   : "2022-04-24-23:59:59"
-menu_start_time : "2016-04-15-00:00:00"
-menu_end_time   : "2022-05-08-23:59:59"
+time_list$ : ({ "2016-01-09-00:00:00", "EVERY_HOUR(22)", "EVERY_DAY(1)", "2016-01-27-23:59:59" })
+special_task_start_time : "2016-01-22-00:00:00"
+special_task_end_time   : "2016-01-24-23:59:59"
+menu_start_time : "2016-01-09-00:00:00"
+menu_end_time   : "2016-01-27-23:59:59"
 
 [broadcast_setting]
 broadcast_list : ({ "start_game", "end_game" })

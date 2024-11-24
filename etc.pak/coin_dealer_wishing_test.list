@@ -2,7 +2,7 @@
 
 [活动时间]
 # 任务开始时间，持续时间，开启频率
-time_list$ : ({ "2018-12-14-00:00:00", "EVERY_HOUR(136)", "EVERY_WEEK(1)", "2021-12-23-23:59:59" })
+time_list$ : ({ "2015-12-14-00:00:00", "EVERY_DAY(10)", "EVERY_WEEK(0)", "2015-12-23-23:59:59" })
 
 [broadcast_setting]
 broadcast_list:   ({ "start_task", "end_task" })
@@ -23,9 +23,9 @@ channel         : "CHANNEL_SYSTEM | CHANNEL_NO_BROADCAST"
 
 #奖励配置
 [bonus_set]
-bonus$ : "九尾仙狐"
-bonus$ : "至尊巨骨刺"
-bonus$ : "吉祥蛙"
+bonus$ : "北斗天蓬"
+bonus$ : "至尊太极熊"
+bonus$ : "巨骨刺"
 bonus$ : "五彩神牛"
 bonus$ : "北极熊"
 bonus$ : "慕炎狮"
@@ -151,23 +151,9 @@ all_resist_polar         : 500
 all_resist_except        : 500
 all_attrib               : 300
 
-[九尾仙狐]
-rate_base : 5000000
-max_num   : 2222
-limit_num : 1
-type      : "pet"
-sub_type  : "mount"
-
 [北斗天蓬]
 rate_base : 5000000
 max_num   : 2222
-limit_num : 1
-type      : "pet"
-sub_type  : "mount"
-
-[至尊巨骨刺]
-rate_base : 2000000
-max_num   : 889
 limit_num : 1
 type      : "pet"
 sub_type  : "mount"

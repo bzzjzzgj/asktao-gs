@@ -240,7 +240,7 @@ key_name,   id,                   no,                       class,              
 天道自然,   "tiandao-ziran",      SKILL_TIANDAO_ZIRAN,      SKILL_CLASS_EARTH,     SKILL_SUBCLASS_I, SKILL_LADDER_2,  0,               0,                0,             ({ "pot" | "cash" }),           0,                              0,              0,              0,                  0,                  0,                    0,            1
 
 #物理伤害技能
-力破千钧,   "lipo-qianjun",       SKILL_LIPO_QIANJUN,       SKILL_CLASS_PHY,       SKILL_SUBCLASS_J, 0,               0,               0,                0,             ({ "pot" }),                    0,                              20,             25,             20,                 25,                 0,                    0,            0
+力破千钧,   "lipo-qianjun",       SKILL_LIPO_QIANJUN,       SKILL_CLASS_PHY,       SKILL_SUBCLASS_J, 0,               0,               0,                0,             ({ "pot" }),                    0,                              70,             85,             70,                 85,                 0,                    0,            0
 
 # 阵法技能
 万象宇化,   "wanxiang-yuhua",     SKILL_WANXIANG_YUHUA,     SKILL_CLASS_ZHENFA,    SKILL_SUBCLASS_E, 0,               0,               0,                0,             0,                              0,                              0,              0,              0,                  0,                  0,                    1,            1

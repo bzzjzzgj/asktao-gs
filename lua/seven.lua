@@ -73,11 +73,11 @@ sevenList = {}
 
 
 table.insert(sevenList, SevenConfig:new("高级宠物玲珑丹", 0, "item"))
-table.insert(sevenList, SevenConfig:new("随机装备材料箱", 0, "item"))
-table.insert(sevenList, SevenConfig:new("叛逆袖章礼袋", 0, "item"))
-table.insert(sevenList, SevenConfig:new("声望礼袋", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("随机装备材料箱", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("叛逆袖章礼袋", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("声望礼袋", 0, "item"))
 
-table.insert(sevenList, SevenConfig:new("妖石大礼包", 0, "item"))
+-- table.insert(sevenList, SevenConfig:new("妖石大礼包", 0, "item"))
 -- table.insert(sevenList, SevenConfig:new("道行大礼包", 0, "item"))
 -- table.insert(sevenList, SevenConfig:new("道法大礼包", 0, "item"))
 -- table.insert(sevenList, SevenConfig:new("幻宠大礼包", 0, "item"))

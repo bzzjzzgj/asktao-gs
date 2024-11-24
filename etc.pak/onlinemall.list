@@ -241,8 +241,6 @@
 装备打造$ : "E00000021"
 装备打造$ : "E00000022"
 装备打造$ : "E00000023"
-装备打造$ : "E00000024"
-装备打造$ : "E00000025"
 宠物坐骑$ : "F00000000"
 宠物坐骑$ : "F00000001"
 宠物坐骑$ : "F00000002"
@@ -606,6 +604,15 @@ gold_end   : "2013-08-19-11:59:59"
 name : "999朵玫瑰花"
 for_sale : 1
 coin: 99900
+coin_type: 1
+recommend: 推荐专区
+gold_start : "2013-06-28-12:00:00"
+gold_end   : "2013-08-19-11:59:59"
+
+[T00000030]
+name : "第三代乾坤锁"
+for_sale : 1
+coin: 4100
 coin_type: 1
 recommend: 推荐专区
 gold_start : "2013-06-28-12:00:00"
@@ -1158,11 +1165,25 @@ coin_type: 1
 recommend: 推荐专区
 
 [T00000097]
-name: "仙灵卡"
+name: "娃娃装备百宝箱"
 for_sale: 1
-coin: 216
-coin_type: 3
-recommend: 功能道具
+coin: 10000
+coin_type: 1
+recommend: 推荐专区
+
+[T00000098]
+name: "黑熊精魄"
+for_sale: 1
+coin: 10000
+coin_type: 1
+recommend: 推荐专区
+
+[T00000099]
+name: "龙血之精"
+for_sale: 1
+coin: 20000
+coin_type: 1
+recommend: 推荐专区
 
 
 
@@ -1739,7 +1760,12 @@ gold_start : "2012-01-22-00:00"
 gold_end   : "2012-01-23-23:59"
 limit$ : ({ "time_limit", "now", "2012-01-23-23:59:59", 0 })
 
-
+[G00000042]
+name : "第三代乾坤锁"
+for_sale : 1
+coin: 4100
+coin_type: 1
+recommend: 功能道具
 
 [G00000043]
 name : "超值家具礼包·幽雅小居"
@@ -2021,35 +2047,116 @@ coin_type: 1
 recommend: 装备打造
 
 [E00000025]
-name: "超级女娲石"
+name: "八角晶牌"
 for_sale: 1
-coin: 1000
+coin: 30000
 coin_type: 1
 recommend: 装备打造
 
-# E00000026]
-# name: "十级镶嵌令"
-# for_sale: 1
-# coin: 888888
-# coin_type: 1
-# recommend: 装备打造
+[E00000026]
+name: "龙鳞手镯"
+for_sale: 1
+coin: 30000
+coin_type: 1
+recommend: 装备打造
 
 [E00000027]
-name: "五色晶石"
+name: "幻彩项链"
 for_sale: 1
-coin: 6
+coin: 30000
 coin_type: 1
 recommend: 装备打造
 
 [E00000028]
-name: "五色灵石"
+name: "蟠螭结"
 for_sale: 1
-coin: 6
+coin: 100000
 coin_type: 1
 recommend: 装备打造
 
+[E00000029]
+name: "雪魂丝链"
+for_sale: 1
+coin: 100000
+coin_type: 1
+recommend: 装备打造
 
+[E00000030]
+name: "法文手轮"
+for_sale: 1
+coin: 100000
+coin_type: 1
+recommend: 装备打造
 
+[E00000031]
+name: "九天破甲技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000032]
+name: "九天封甲技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000033]
+name: "滚鞍堕马技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000034]
+name: "金戈铁骑技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000035]
+name: "无所遁形技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000036]
+name: "遁形隐身技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000037]
+name: "飞天怒吼技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000038]
+name: "初生牛犊技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000039]
+name: "玄虚灵甲技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
+
+[E00000040]
+name: "玄虚破甲技能石"
+for_sale: 1
+coin: 200000
+coin_type: 1
+recommend: 装备打造
 
 [E00000041]
 name: "娃娃装备百宝箱"
@@ -2243,6 +2350,12 @@ coin: 1800
 coin_type: 1
 recommend: 宠物坐骑
 
+[F00000042]
+name: "元灵精魄"
+for_sale: 1
+coin: 1000000
+coin_type: 1
+recommend: 宠物坐骑
 
 [F00000043]
 name: "水韵剑"

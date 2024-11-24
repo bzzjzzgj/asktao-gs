@@ -210,9 +210,3 @@ name      : "蟠螭结"
 cost_type : "叛逆将领袖章"
 amount    : 1
 need_item : 10
-
-["R0000030"]
-name      : "混沌钟"
-cost_type : "叛逆将领袖章"
-amount    : 1
-need_item : 30

@@ -2,7 +2,7 @@
 
 [活动时间]
 # 任务开始时间，持续时间，开启频率
-time_list$ : ({ "2018-12-14-00:00:00", "EVERY_HOUR(136)", "EVERY_WEEK(1)", "2028-12-23-23:59:59" })
+time_list$ : ({ "2016-10-21-00:00:00", "EVERY_DAY(10)", "EVERY_WEEK(0)", "2016-10-30-23:59:59" })
 
 [broadcast_setting]
 broadcast_list:   ({ "start_task", "end_task" })
