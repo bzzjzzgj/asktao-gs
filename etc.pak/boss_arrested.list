@@ -13,7 +13,7 @@ setting_type : 1
 
 [setting1]
 start_time    : 1800
-duration_time : 600
+duration_time : 3600
 interval_time : 3600
 
 [setting2]

@@ -30,9 +30,11 @@ assist_max_count    : 9
 assist_init_name    : "松鼠"
 assist_init_level   : 20
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:300", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 1, "60% baldric & wrist & necklace(level = 20)" })
-bonus_item$         : ({ 1, "helmet & weapon & boot & armor & belt(level = 30 color = GOLDEN)" })
-bonus_item$         : ({ 1, "藏宝图" })
+bonus_item$         : ({ 10, "60% baldric & wrist & necklace(level = 20)" })
+bonus_item$         : ({ 10, "helmet & weapon & boot & armor & belt(level = 30 color = GOLDEN)" })
+bonus_item$         : ({ 30, "50% 五色灵石", "50% 五色晶石" })
+bonus_item$         : ({ 6, "50% 归元露", "50% 超级归元露" })
+bonus_item$         : ({ 6,  "20% 超级灵石", "30% 超级晶石", "50% 超级女娲石" })
 
 [牛头怪]
 icon                : 6214
@@ -64,8 +66,8 @@ assist_max_count    : 9
 assist_init_name    : "蛇"
 assist_init_level   : 30
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:300", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 1, "80% baldric & wrist & necklace(level = 20)" })
-bonus_item$         : ({ 1, "helmet & weapon & boot & armor & belt(level = 40 color = GOLDEN)" })
+bonus_item$         : ({ 10, "80% baldric & wrist & necklace(level = 20)" })
+bonus_item$         : ({ 10, "helmet & weapon & boot & armor & belt(level = 40 color = GOLDEN)" })
 bonus_item$         : ({ 1, "藏宝图" })
 bonus_item$         : ({ 1, "20% 藏宝图" })
 

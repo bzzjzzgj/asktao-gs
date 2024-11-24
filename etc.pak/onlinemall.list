@@ -1762,7 +1762,7 @@ limit$ : ({ "time_limit", "now", "2012-01-23-23:59:59", 0 })
 
 [G00000042]
 name : "第三代乾坤锁"
-for_sale : 1
+for_sale : 0
 coin: 4100
 coin_type: 1
 recommend: 功能道具
@@ -1797,7 +1797,7 @@ recommend: 功能道具
 
 [G00000047]
 name : "第四代乾坤锁"
-for_sale : 1
+for_sale : 0
 coin: 5500
 coin_type: 1
 recommend: 功能道具
@@ -2046,125 +2046,6 @@ coin: 1000
 coin_type: 1
 recommend: 装备打造
 
-[E00000025]
-name: "八角晶牌"
-for_sale: 1
-coin: 30000
-coin_type: 1
-recommend: 装备打造
-
-[E00000026]
-name: "龙鳞手镯"
-for_sale: 1
-coin: 30000
-coin_type: 1
-recommend: 装备打造
-
-[E00000027]
-name: "幻彩项链"
-for_sale: 1
-coin: 30000
-coin_type: 1
-recommend: 装备打造
-
-[E00000028]
-name: "蟠螭结"
-for_sale: 1
-coin: 100000
-coin_type: 1
-recommend: 装备打造
-
-[E00000029]
-name: "雪魂丝链"
-for_sale: 1
-coin: 100000
-coin_type: 1
-recommend: 装备打造
-
-[E00000030]
-name: "法文手轮"
-for_sale: 1
-coin: 100000
-coin_type: 1
-recommend: 装备打造
-
-[E00000031]
-name: "九天破甲技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000032]
-name: "九天封甲技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000033]
-name: "滚鞍堕马技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000034]
-name: "金戈铁骑技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000035]
-name: "无所遁形技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000036]
-name: "遁形隐身技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000037]
-name: "飞天怒吼技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000038]
-name: "初生牛犊技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000039]
-name: "玄虚灵甲技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000040]
-name: "玄虚破甲技能石"
-for_sale: 1
-coin: 200000
-coin_type: 1
-recommend: 装备打造
-
-[E00000041]
-name: "娃娃装备百宝箱"
-for_sale: 1
-coin: 10000
-coin_type: 1
-recommend: 装备打造
-
 ####################宠物坐骑########################
 [F00000014]
 name: "御魂·孔雀翎"
@@ -2228,8 +2109,8 @@ for_sale : 1
 coin: 518
 coin_type: 1
 recommend: 宠物坐骑
-gold_start: "2016-07-08-00:00:00"
-gold_end: "2016-08-08-23:59:59"
+gold_start: "2024-07-08-00:00:00"
+gold_end: "2036-08-08-23:59:59"
 
 [F00000023]
 name: "超级归元露"
