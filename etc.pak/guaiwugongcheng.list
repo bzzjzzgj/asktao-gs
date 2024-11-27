@@ -98,7 +98,7 @@ monster_list$: 云霄宫地煞星
 monster_list$: 云霄宫超级BOSS
 
 [揽仙镇BOSS]
-num : 1
+num : 30
 name$: 羊头怪
 name$: 牛头怪
 name$: 百年黑熊精
@@ -138,7 +138,7 @@ level$: 20
 level$: 30
 
 [天墉城BOSS]
-num : 1
+num : 30
 name$: 百年猪妖
 name$: 百年狂狮怪
 name$: 百年刺猬精
@@ -196,7 +196,7 @@ num : 1
 name$ : 黑熊妖皇
 
 [东海渔村BOSS]
-num : 1
+num : 30
 name$: 百年象精
 name$: 百花羞
 name$: 牛魔王
@@ -261,7 +261,7 @@ num : 1
 name$ : 天煞狂狮
 
 [无名小镇BOSS]
-num : 1
+num : 30
 name$: 夜叉王
 name$: 罗刹王
 name$: 白骨精
@@ -326,7 +326,7 @@ num : 1
 name$ : 灭天血刺
 
 [云霄宫BOSS]
-num : 1
+num : 30
 name$: 阎摩罗王
 name$: 金角大仙
 type: "boss_monster"
