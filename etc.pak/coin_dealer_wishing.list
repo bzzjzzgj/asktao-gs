@@ -2,7 +2,7 @@
 
 [活动时间]
 # 任务开始时间，持续时间，开启频率
-time_list$ : ({ "2016-10-21-00:00:00", "EVERY_DAY(10)", "EVERY_WEEK(0)", "2016-10-30-23:59:59" })
+time_list$ : ({ "2023-12-14-00:00:00", "EVERY_HOUR(136)", "EVERY_WEEK(1)", "2033-12-23-23:59:59" })
 
 [broadcast_setting]
 broadcast_list:   ({ "start_task", "end_task" })
@@ -51,15 +51,15 @@ bonus$ : "神圣之光秘笈"
 bonus$ : "游说之舌秘笈"
 bonus$ : "漫天血舞秘笈"
 bonus$ : "超级女娲石"
-bonus$ : "80级满属性黑水晶"
-bonus$ : "90级满属性黑水晶"
-bonus$ : "100级满属性黑水晶"
-bonus$ : "110级满属性黑水晶"
-bonus$ : "120级满属性黑水晶"
-bonus$ : "130级满属性黑水晶"
-bonus$ : "140级满属性黑水晶"
-bonus$ : "150级满属性黑水晶"
-bonus$ : "160级满属性黑水晶"
+# bonus$ : "80级满属性黑水晶"
+# bonus$ : "90级满属性黑水晶"
+# bonus$ : "100级满属性黑水晶"
+# bonus$ : "110级满属性黑水晶"
+# bonus$ : "120级满属性黑水晶"
+# bonus$ : "130级满属性黑水晶"
+# bonus$ : "140级满属性黑水晶"
+# bonus$ : "150级满属性黑水晶"
+# bonus$ : "160级满属性黑水晶"
 
 # 新服许愿和元宝商人许愿共用以下配置
 [weapon_rate]
@@ -150,6 +150,14 @@ resist_lost              : 1500
 all_resist_polar         : 500
 all_resist_except        : 500
 all_attrib               : 300
+
+[]
+rate_base : 5000000
+max_num   : 2222
+limit_num : 1
+type      : "pet"
+sub_type  : "mount"
+
 
 [九尾仙狐]
 rate_base : 5000000

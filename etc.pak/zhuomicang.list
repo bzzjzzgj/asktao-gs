@@ -12,7 +12,7 @@
 #pet_bonus--pet name list
 
 [活动时间]
-time_list$ : ({ "2010-01-27-18:30:00", "EVERY_HOUR(1)", "EVERY_DAY(7)" })
+time_list$ : ({ "2023-10-30-00:00:00", "EVERY_HOUR(24)", "EVERY_DAY(1)" })
 
 [data_time]
 before_game : 300
@@ -38,6 +38,7 @@ duration_interval : 600
 [place]
 room_list$ : ({ "东海渔村", 5 })
 room_list$ : ({ "揽仙镇", 9 })
+room_list$ : ({ "天墉城", 12 })
 
 [bonus]
 pet_bonus : ({ "伶俐鼠", "笨笨牛", "威威虎", "跳跳兔", "酷酷龙", "花花蛇", "溜溜马", "咩咩羊", "帅帅猴", "蛋蛋鸡", "乖乖狗", "招财猪" })
