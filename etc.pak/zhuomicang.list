@@ -36,8 +36,8 @@ duration_interval : 600
 
 
 [place]
-room_list$ : ({ "东海渔村", 5 })
-room_list$ : ({ "揽仙镇", 9 })
+room_list$ : ({ "东海渔村", 12 })
+room_list$ : ({ "揽仙镇", 12 })
 room_list$ : ({ "天墉城", 12 })
 
 [bonus]

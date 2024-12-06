@@ -5,8 +5,8 @@
 #monster_num 每层产生的妖魔数量
 
 [setting]
-start_time    : "2008-12-24-18:00:00"
-duration_time : 352800
+start_time    : "2024-12-1-18:00:00"
+duration_time : 31536000
 broadcast_interval_60 : 259200
 interval_60 : 3600
 monster_num : 8000

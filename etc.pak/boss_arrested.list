@@ -111,6 +111,7 @@ stone        : 40
 medicine     : 40
 charge_item  : 20
 
+
 #妖石奖励
 [stone]
 枯月流魂$ : ({ "枯月流魂" })
@@ -121,38 +122,39 @@ charge_item  : 20
 
 [枯月流魂]
 weight    : 10
-amount    : 1
+amount    : 3
 level_min : 4
-level_max : 7
+level_max : 15
 
 [冰落残阳]
 weight    : 10
-amount    : 1
+amount    : 3
 level_min : 4
-level_max : 7
+level_max : 15
 
 [凝香幻彩]
 weight    : 10
-amount    : 1
+amount    : 3
 level_min : 4
-level_max : 7
+level_max : 15
 
 [炫影霜星]
 weight    : 10
-amount    : 1
+amount    : 3
 level_min : 4
-level_max : 7
+level_max : 15
 
 [风寂云清]
 weight    : 10
-amount    : 1
+amount    : 3
 level_min : 4
-level_max : 7
+level_max : 15
 
 #药品奖励
 [medicine]
 百灵丹$ : ({ "百灵丹" })
 九圣散$ : ({ "九圣散" })
+七周年纪念卡$  : ({ "七周年纪念卡" })
 
 [百灵丹]
 weight : 50
@@ -174,6 +176,15 @@ amount : 5
 金蝉脱壳$  : ({ "金蝉脱壳" })
 天神护佑$  : ({ "天神护佑" })
 驯兽诀$  : ({ "驯兽诀" })
+七周年纪念卡$  : ({ "七周年纪念卡" })
+
+[七周年纪念卡]
+weight : 20
+amount : 10
+
+[特效仙风散]
+weight : 10
+amount : 1
 
 [特效仙风散]
 weight : 10
