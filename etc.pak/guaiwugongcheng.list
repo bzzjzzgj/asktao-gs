@@ -67,6 +67,8 @@ monster_list$: 揽仙镇小BOSS
 
 [天墉城]
 monster_list$: 天墉城BOSS
+monster_list$: 天墉城BOSS2
+monster_list$: 天墉城BOSS3
 monster_list$: 天墉城上古妖王
 monster_list$: 天墉城星星
 monster_list$: 天墉城小BOSS
@@ -138,9 +140,17 @@ level$: 20
 level$: 30
 
 [天墉城BOSS]
-num : 30
+num : 100
 name$: 百年猪妖
+type: "boss_monster"
+
+[天墉城BOSS2]
+num : 100
 name$: 百年狂狮怪
+type: "boss_monster"
+
+[天墉城BOSS3]
+num : 100
 name$: 百年刺猬精
 type: "boss_monster"
 
