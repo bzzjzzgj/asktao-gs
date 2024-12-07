@@ -30,9 +30,8 @@ assist_max_count    : 9
 assist_init_name    : "松鼠"
 assist_init_level   : 20
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:300", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 1, "baldric & wrist & necklace(level = 20)" })
 bonus_item$         : ({ 1, "helmet & weapon & boot & armor & belt(level = 30 color = GOLDEN)" })
-bonus_item$         : ({ 2, "七周年纪念卡" })
+bonus_item$         : ({ 4, "七周年纪念卡" })
 
 [牛头怪]
 icon                : 6214
@@ -64,10 +63,8 @@ assist_max_count    : 9
 assist_init_name    : "蛇"
 assist_init_level   : 30
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:300", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 1, "baldric & wrist & necklace(level = 20)" })
 bonus_item$         : ({ 1, "helmet & weapon & boot & armor & belt(level = 40 color = GOLDEN)" })
-bonus_item$         : ({ 3, "七周年纪念卡" })
-bonus_item$         : ({ 1, "20% 七周年纪念卡" })
+bonus_item$         : ({ 6, "七周年纪念卡" })
 
 [百年黑熊精]
 icon                : 6203
@@ -98,10 +95,8 @@ assist_max_count    : 9
 assist_init_name    : "猴子"
 assist_init_level   : 40
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:200", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 1, "baldric & wrist & necklace(level = 35)" })
 bonus_item$         : ({ 1, "helmet & weapon & boot & armor & belt(level = 50 color = GOLDEN)" })
-bonus_item$         : ({ 4, "七周年纪念卡" })
-bonus_item$         : ({ 1, "40% 七周年纪念卡" })
+bonus_item$         : ({ 8, "七周年纪念卡" })
 
 [百年狂狮怪]
 icon                : 6209
@@ -133,10 +128,8 @@ assist_max_count    : 9
 assist_init_name    : "白猿"
 assist_init_level   : 50
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:300", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 1,  "baldric & wrist & necklace(level = 50)"  })
-bonus_item$         : ({ 1,  "helmet & weapon & boot & armor & belt(level = 60 color = GOLDEN)" })
-bonus_item$         : ({ 5,  "七周年纪念卡" })
-bonus_item$         : ({ 1,  "60% 七周年纪念卡" })
+bonus_item$         : ({ 1,   "helmet & weapon & boot & armor & belt(level = 60 color = GOLDEN)" })
+bonus_item$         : ({ 10,  "七周年纪念卡" })
 
 [百年刺猬精]
 icon                : 6210
@@ -168,10 +161,8 @@ assist_max_count    : 9
 assist_init_name    : "狼"
 assist_init_level   : 60
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:300", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 1,  "baldric & wrist & necklace(level = 60)" })
-bonus_item$         : ({ 1,  "helmet & weapon & boot & armor & belt(level = 70 color = GOLDEN)" })
-bonus_item$         : ({ 6,  "七周年纪念卡" })
-bonus_item$         : ({ 1,  "80% 七周年纪念卡" })
+bonus_item$         : ({ 1,   "helmet & weapon & boot & armor & belt(level = 70 color = GOLDEN)" })
+bonus_item$         : ({ 12,  "七周年纪念卡" })
 
 [百年猪妖]
 icon                : 6208
@@ -203,36 +194,33 @@ assist_max_count    : 9
 assist_init_name    : "老虎"
 assist_init_level   : 70
 assist_data         : ({ "tao_effect:-20", "mag_absorb:-40", "phy_absorb:-40", "life_effect:350", "phy_effect:80", "mag_effect:100" })
-bonus_item$         : ({ 3,  "baldric & wrist & necklace(level = 70)" })
-bonus_item$         : ({ 1,  "60% baldric & wrist & necklace(level = 70)" })
-bonus_item$         : ({ 1,  "helmet & weapon & boot & armor & belt(level = 80 color = GOLDEN)" })
-bonus_item$         : ({ 2,  "七周年纪念卡" })
+bonus_item$         : ({ 1,   "helmet & weapon & boot & armor & belt(level = 80 color = GOLDEN)" })
+bonus_item$         : ({ 1,   "炼妖石(level = 7)" })
+bonus_item$         : ({ 14,  "七周年纪念卡" })
 
 [百年象精]
 icon                : 6207
 portrait            : 6207
 level               : 80
-bonus_item$         : ({ 4,  "baldric & wrist & necklace(level = 70)" })
 bonus_item$         : ({ 1,  "helmet & weapon & boot & armor & belt(level = 80 color = GOLDEN)" })
-bonus_item$         : ({ 1,  "炼妖石(level = 7)" })
-bonus_item$         : ({ 1,  "40% baldric & wrist & necklace(level = 35)" })
+bonus_item$         : ({ 1,  "炼妖石(level = 8)" })
+bonus_item$         : ({ 16,  "七周年纪念卡" })
 
 [百花羞]
 icon                : 6241
 portrait            : 6241
 level               : 90
-bonus_item$         : ({ 4,  "baldric & wrist & necklace(level = 70)" })
 bonus_item$         : ({ 1,  "helmet & weapon & boot & armor & belt(level = 90 color = GOLDEN)" })
-bonus_item$         : ({ 1,  "炼妖石(level = 8)"  })
-bonus_item$         : ({ 1,  "60% baldric & wrist & necklace(level = 35)" })
+bonus_item$         : ({ 1,  "炼妖石(level = 9)"  })
+bonus_item$         : ({ 18, "七周年纪念卡" })
 
 [牛魔王]
 icon                : 6259
 portrait            : 6259
 level               : 100
-bonus_item$         : ({ 4,  "baldric & wrist & necklace(level = 70)" })
 bonus_item$         : ({ 3,  "helmet & weapon & boot & armor & belt(level = 100 color = GOLDEN)" })
-bonus_item$         : ({ 1,  "炼妖石(level = 9)"  })
+bonus_item$         : ({ 1,  "炼妖石(level = 10)"  })
+bonus_item$         : ({ 20, "七周年纪念卡" })
 
 [夜叉王]
 icon                : 6277

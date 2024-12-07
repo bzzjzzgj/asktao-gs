@@ -141,6 +141,18 @@ show_start : 0
 show_end : 24
 
 [011]
+name: 特级羽化丹
+type : "item"
+card_num: 30
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[012]
 name: 拔苗助长秘笈
 type : "item"
 card_num: 20
@@ -152,7 +164,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[012]
+[013]
 name: 鞭长莫及秘笈
 type : "item"
 card_num: 20
@@ -164,7 +176,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[013]
+[014]
 name: 漫天血舞秘笈
 type : "item"
 card_num: 20
@@ -176,7 +188,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[014]
+[015]
 name: 乾坤罩秘笈
 type : "item"
 card_num: 20
@@ -188,7 +200,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[015]
+[016]
 name: 如意圈秘笈
 type : "item"
 card_num: 20
@@ -200,7 +212,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[016]
+[017]
 name: 舍命一击秘笈
 type : "item"
 card_num: 20
@@ -212,7 +224,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[017]
+[018]
 name: 神龙罩秘笈
 type : "item"
 card_num: 20
@@ -224,7 +236,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[018]
+[019]
 name: 神圣之光秘笈
 type : "item"
 card_num: 20
@@ -236,7 +248,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[019]
+[020]
 name: 十万火急秘笈
 type : "item"
 card_num: 20
@@ -248,7 +260,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[020]
+[021]
 name: 死亡缠绵秘笈
 type : "item"
 card_num: 20
@@ -260,7 +272,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[021]
+[022]
 name: 天生神力秘笈
 type : "item"
 card_num: 20
@@ -272,7 +284,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[022]
+[023]
 name: 游说之舌秘笈
 type : "item"
 card_num: 20
@@ -284,7 +296,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[023]
+[024]
 name: 秘笈·忽视金系抗性
 type : "item"
 card_num: 10
@@ -296,7 +308,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[024]
+[025]
 name: 秘笈·忽视木系抗性
 type : "item"
 card_num: 10
@@ -308,7 +320,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[025]
+[026]
 name: 秘笈·忽视水系抗性
 type : "item"
 card_num: 10
@@ -320,7 +332,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[026]
+[027]
 name: 秘笈·忽视火系抗性
 type : "item"
 card_num: 10
@@ -332,7 +344,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[027]
+[028]
 name: 秘笈·忽视土系抗性
 type : "item"
 card_num: 10
@@ -344,7 +356,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[028]
+[029]
 name: 秘笈·化解金系伤害
 type : "item"
 card_num: 10
@@ -356,7 +368,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[029]
+[030]
 name: 秘笈·化解木系伤害
 type : "item"
 card_num: 10
@@ -368,7 +380,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[030]
+[031]
 name: 秘笈·化解水系伤害
 type : "item"
 card_num: 10
@@ -380,7 +392,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[031]
+[032]
 name: 秘笈·化解火系伤害
 type : "item"
 card_num: 10
@@ -392,7 +404,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[032]
+[033]
 name: 秘笈·化解土系伤害
 type : "item"
 card_num: 10
@@ -404,7 +416,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[033]
+[034]
 name: 秘笈·忽视防御
 type : "item"
 card_num: 10
@@ -416,7 +428,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[034]
+[035]
 name: 秘笈·体魄
 type : "item"
 card_num: 10
@@ -428,7 +440,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[035]
+[036]
 name: 秘笈·力气
 type : "item"
 card_num: 10
@@ -440,7 +452,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[036]
+[037]
 name: 秘笈·智慧
 type : "item"
 card_num: 10
@@ -452,7 +464,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[037]
+[038]
 name: 秘笈·灵敏
 type : "item"
 card_num: 10
@@ -464,7 +476,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[038]
+[039]
 name: 秘笈·物理必杀
 type : "item"
 card_num: 10
@@ -476,7 +488,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[039]
+[040]
 name: 秘笈·法术必杀
 type : "item"
 card_num: 10
@@ -488,7 +500,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[040]
+[041]
 name: 秘笈·怒气要求减少
 type : "item"
 card_num: 10
@@ -500,7 +512,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[041]
+[042]
 name: 秘笈·怒气获得增加
 type : "item"
 card_num: 10
@@ -512,7 +524,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[042]
+[043]
 name: 绝技·道法归宗
 type : "item"
 card_num: 10
@@ -524,7 +536,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[043]
+[044]
 name: 绝技·裂地
 type : "item"
 card_num: 10
@@ -536,7 +548,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[044]
+[045]
 name: 绝技·销声匿迹
 type : "item"
 card_num: 10
@@ -548,7 +560,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[045]
+[046]
 name: 绝技·中流砥柱
 type : "item"
 card_num: 10
@@ -560,7 +572,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[046]
+[047]
 name: 绝技·回生
 type : "item"
 card_num: 10
@@ -572,7 +584,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[047]
+[048]
 name: 变身绝技·以己渡人
 type : "item"
 card_num: 10
@@ -584,7 +596,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[048]
+[049]
 name: 变身绝技·合力破敌
 type : "item"
 card_num: 10
@@ -596,7 +608,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[049]
+[050]
 name: 变身绝技·急速舍身
 type : "item"
 card_num: 10
@@ -608,7 +620,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[050]
+[051]
 name: 变身绝技·天道合一
 type : "item"
 card_num: 10
@@ -620,20 +632,8 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[051]
-name: 蓝松石
-type : "item"
-card_num: 1
-give_num: 1
-free_bag : 1
-can_trade : 1
-sell_start : 0
-sell_end : 24
-show_start : 0
-show_end : 24
-
 [052]
-name: 芙蓉石
+name: 超级女娲石新服礼包
 type : "item"
 card_num: 1
 give_num: 1
@@ -645,7 +645,7 @@ show_start : 0
 show_end : 24
 
 [053]
-name: 红宝石
+name: 蓝松石
 type : "item"
 card_num: 1
 give_num: 1
@@ -657,7 +657,7 @@ show_start : 0
 show_end : 24
 
 [054]
-name: 蓝宝石
+name: 芙蓉石
 type : "item"
 card_num: 1
 give_num: 1
@@ -669,9 +669,9 @@ show_start : 0
 show_end : 24
 
 [055]
-name: 梦荷
+name: 红宝石
 type : "item"
-card_num: 5
+card_num: 1
 give_num: 1
 free_bag : 1
 can_trade : 1
@@ -681,7 +681,7 @@ show_start : 0
 show_end : 24
 
 [056]
-name: 大萝卜
+name: 蓝宝石
 type : "item"
 card_num: 1
 give_num: 1
@@ -693,6 +693,30 @@ show_start : 0
 show_end : 24
 
 [057]
+name: 梦荷
+type : "item"
+card_num: 5
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[058]
+name: 大萝卜
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[059]
 name: 大桃子
 type : "item"
 card_num: 1
@@ -704,7 +728,187 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[058]
+[060]
+name: 青珑挂珠
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[061]
+name: 紫晶坠子
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[062]
+name: 三才项圈
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[063]
+name: 幻彩项链
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[064]
+name: 雪魂丝链
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[065]
+name: 纹龙佩
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[066]
+name: 温玉玦
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[067]
+name: 血心石
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[068]
+name: 八角晶牌
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[069]
+name: 蟠螭结
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[070]
+name: 金刚手镯
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[071]
+name: 七星手链
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[072]
+name: 凤舞环
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[073]
+name: 龙鳞手鐲
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[074]
+name: 法文手轮
+type : "item"
+card_num: 1
+give_num: 1
+free_bag : 1
+can_trade : 1
+sell_start : 0
+sell_end : 24
+show_start : 0
+show_end : 24
+
+[075]
 name: “神”字令牌
 type : "item"
 card_num: 1500
@@ -716,7 +920,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[059]
+[076]
 name: “兽”字令牌
 type : "item"
 card_num: 1500
@@ -728,7 +932,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[060]
+[077]
 name: “变”字令牌
 type : "item"
 card_num: 150
@@ -740,7 +944,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[061]
+[078]
 name: “异”字令牌
 type : "item"
 card_num: 150
@@ -752,7 +956,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[062]
+[079]
 name: “召”字令牌
 type : "item"
 card_num: 100
@@ -764,7 +968,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[063]
+[080]
 name: “唤”字令牌
 type : "item"
 card_num: 100
@@ -776,7 +980,7 @@ sell_end : 24
 show_start : 0
 show_end : 24
 
-[064]
+[081]
 name: “令”字令牌
 type : "item"
 card_num: 100
