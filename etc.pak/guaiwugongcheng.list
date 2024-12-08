@@ -141,7 +141,11 @@ level$: 30
 
 [天墉城BOSS]
 num : 100
-name$: 百年猪妖
+name$: 百年象精-金
+name$: 百年象精-木
+name$: 百年象精-水
+name$: 百年象精-火
+name$: 百年象精-土
 type: "boss_monster"
 
 [天墉城BOSS2]

@@ -198,6 +198,9 @@ bonus_item$         : ({ 1,   "helmet & weapon & boot & armor & belt(level = 80 
 bonus_item$         : ({ 1,   "炼妖石(level = 7)" })
 bonus_item$         : ({ 14,  "七周年纪念卡" })
 
+
+
+
 [百年象精]
 icon                : 6207
 portrait            : 6207
@@ -280,3 +283,49 @@ bonus_item$         : ({ 4,  "baldric & wrist & necklace(level = 70)" })
 bonus_item$         : ({ 3,  "helmet & weapon & boot & armor & belt(level = 160 no_equip_filter = 1 color = GOLDEN)" })
 bonus_item$         : ({ 1,  "炼妖石(level = 15)" })
 bonus_item$         : ({ 1,  "12% 超级灵石", "13% 超级晶石" })
+
+[萝卜大神]
+icon                : 31117
+portrait            : 31117
+level               : 80
+bonus_item$         : ({ 1, "10%  周年卡" })
+bonus_item$         : ({ 1, "10%  会员卡" })
+bonus_item$         : ({ 1, "30%  九转仙灵露" })
+
+
+[百年象精-金]
+icon                : 6207
+portrait            : 6207
+level               : 80
+bonus_item$         : ({ 1,  "weapon(level = 80 color = GOLDEN)" })
+bonus_item$         : ({ 16,  "七周年纪念卡" })
+
+[百年象精-木]
+icon                : 6207
+portrait            : 6207
+level               : 80
+bonus_item$         : ({ 1,  "helmet(level = 80 color = GOLDEN)" })
+bonus_item$         : ({ 16,  "七周年纪念卡" })
+
+[百年象精-水]
+icon                : 6207
+portrait            : 6207
+level               : 80
+bonus_item$         : ({ 1,  "armor(level = 80 color = GOLDEN)" })
+bonus_item$         : ({ 16,  "七周年纪念卡" })
+
+[百年象精-火]
+icon                : 6207
+portrait            : 6207
+level               : 80
+bonus_item$         : ({ 1,  "boot(level = 80 color = GOLDEN)" })
+bonus_item$         : ({ 16,  "七周年纪念卡" })
+
+[百年象精-土]
+icon                : 6207
+portrait            : 6207
+level               : 80
+bonus_item$         : ({ 1,  "belt(level = 80 color = GOLDEN)" })
+bonus_item$         : ({ 16,  "七周年纪念卡" })
+
+

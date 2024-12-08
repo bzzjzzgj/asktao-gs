@@ -914,3 +914,80 @@ tactics_rate        : ({ 100 })
 special_victim      : ({ "life_min", "random" })
 special_victim_rate : ({ 70, 30 })
 special_func        : "do_special_for_am15"
+
+[萝卜大神]
+polar               : -1
+religion            : -1
+life_effect         : 100000
+phy_effect          : "2600+random(600)"
+mag_effect          : "2600+random(600)"
+speed_effect        : "2600+random(350)"
+tao_effect          : "1000+random(300)"
+accurate            : 300
+penetrate_rate      : 100
+penetrate           : 100
+stunt_rate          : 30
+phy_absorb          : "-10 + random(20)"
+mag_absorb          : "-10 + random(20)"
+resist_forgotten    : "100+random(200)"
+resist_poison       : "100+random(200)"
+resist_frozen       : "100+random(200)"
+resist_sleep        : "100+random(200)"
+resist_confusion    : "100+random(200)"
+resist_repress      : "100+random(200)"
+resist_melt         : "100+random(200)"
+resist_cage         : "100+random(200)"
+resist_lock         : "100+random(200)"
+resist_lost         : "100+random(200)"
+obstacle_rate       : 0
+artifact            : ({ "hunyuan-jindou", 24, "fantianyin", 24, "dinghaizhu", 24
+skills              : ({ "B5", "lipo-qianjun", "B4"})
+skill_rate          : ({ 30, 30, 30 })
+assist              : ({ "shouhu1", 9 })
+special_tactics     : ({ "C_mag_attack" })
+c_skills            : ({ "C5" })
+c_skill_rate        : ({ 20 })
+god_book_skills     : ({ "xianfeng", "fanji", "yunti" })
+god_book_level      : ({ 300, 300, 300 })
+tactics             : ({ "phy_attack", "mag_attack" })
+tactics_rate        : ({ 50, 50 })
+special_victim      : ({ "life_min", "speed_max", "random" })
+special_victim_rate : ({ 30, 30, 40 })
+
+
+[shouhu1]
+name                : 大神★守护
+level               : "BOSS_LEVEL"
+polar               : -1
+religion            : -1
+icon                : 6050
+life_effect         : 70000
+phy_effect          : "1200+random(400)"
+mag_effect          : "1200+random(500)"
+speed_effect        : "1200+random(200)"
+tao_effect          : "1200+random(300)"
+accurate            : 100
+penetrate_rate      : 100
+penetrate           : 70
+stunt_rate          : 30
+phy_absorb          : "-10 + random(20)"
+mag_absorb          : "-10 + random(20)"
+resist_forgotten    : "100+random(150)"
+resist_poison       : "100+random(150)"
+resist_frozen       : "100+random(150)"
+resist_sleep        : "100+random(150)"
+resist_confusion    : "100+random(150)"
+resist_repress      : "100+random(150)"
+resist_melt         : "100+random(150)"
+resist_cage         : "100+random(150)"
+resist_lock         : "100+random(150)"
+resist_lost         : "100+random(150)"
+skills              : ({ "lipo-qianjun", "B5", "B4" })
+skill_rate          : ({ 10, 10, 10 })
+artifact            : ({ "hunyuan-jindou", 10, "fantianyin",  10 })
+god_book_skills     : ({ "xianfeng", "fanji", "yunti" })
+god_book_level      : ({ 300, 300, 300 })
+tactics             : ({ "phy_attack", "mag_attack" })
+tactics_rate        : ({ 50, 50 })
+
+
