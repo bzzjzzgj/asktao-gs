@@ -193,6 +193,7 @@ table.insert(sevenList, SevenConfig:new("变身绝技·天道合一", 10, "item"))
 -- table.insert(sevenList, SevenConfig:new("18女娲礼包", 1, "item"))
 
 table.insert(sevenList, SevenConfig:new("超级女娲石新服礼包", 1, "item"))
+table.insert(sevenList, SevenConfig:new("炼妖石大礼包", 3, "item"))
 
 
 -- table.insert(sevenList, SevenConfig:new("八十级套装·土", 0, "item"))
